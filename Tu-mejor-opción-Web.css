@@ -957,7 +957,6 @@
 
 .u-section-5 .u-group-1 {
   min-height: 1521px;
-  height: auto;
   margin-top: 1px;
   margin-bottom: 1px;
 }
@@ -968,7 +967,6 @@
 
 .u-section-5 .u-group-2 {
   width: 428px;
-  height: 382px;
   margin: 38px auto 0;
 }
 
@@ -1127,16 +1125,6 @@
 .u-section-5 .u-text-10 {
   font-style: italic;
   margin: 20px 0 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-group-1 {
-    height: auto;
-  }
-
-  .u-section-5 .u-group-2 {
-    height: auto;
-  }
 }
 
 @media (max-width: 991px) {
